@@ -26,7 +26,9 @@
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://tryhackme.com/p/anujupadhayay0306">
-  </a>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
   <a href="https://twitter.com/AnujUpadhayay07">
     <img src="https://img.shields.io/badge/X-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
